@@ -1,4 +1,4 @@
-Task
+# Task1 - Sequence
 
 Create a templated "Sequence" class which has a key and an info variable that implements a singly-liked list.
 
@@ -10,7 +10,7 @@ The produce function takes as its arguments two sequences (seq_1, seq_2), two st
 
 The produce function should create a third sequence which will contain up to limit chunks, if both input sequences are large enough.
 
-The start_1 and start_2 arguments tell from which element in seq_1 and seq_2 the produce function should start creating the chunks.
+The start_1 and start_2 arguments tell from which element in seq_1 and seq_2 the produce function should start creating the chunks.<br>
 
 
-Made for Algorithms and Data Structures class in Warsa University of Technology
+### *Made for Algorithms and Data Structures class in Warsa University of Technology.*
