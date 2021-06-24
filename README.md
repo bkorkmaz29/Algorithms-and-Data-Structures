@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures
-Examples of algorithms and data structures 
+Examples of algorithms and data structures.
